@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117312432550",
+    "project_id": "nootekin",
+    "storage_bucket": "nootekin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117312432550:android:6166d6c6d3d25794d78767",
+        "android_client_info": {
+          "package_name": "com.example.nootekin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117312432550-02bbpvh4pd2ovjechm2j4e81c1me1eea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbS571jtHrIBm6GTYASQh4wRrsQeKMiSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117312432550-02bbpvh4pd2ovjechm2j4e81c1me1eea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
